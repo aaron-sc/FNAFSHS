@@ -1,13 +1,8 @@
 # FNAFSHS
 A game Being Created In Scratch | All improvements are appreciated
 
-UPDATES (V: 0.5):  
--Added Title Screen
--Added Newspaper
--Added Main Office
--Added Freddy Fazbear
--Added Random Movement To Freddy
--Added Hallway Camera
+UPDATES (V: 0.55):  
+- Bug fixes
 
 Needs To Be Done:  
 -Add All Additional Cameras
